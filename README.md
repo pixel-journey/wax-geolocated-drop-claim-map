@@ -3,7 +3,7 @@
 **Trust label:** `educational-reference`  
 **Catalog:** [wax-ecosystem-blueprint-catalog](https://github.com/pixel-journey/wax-ecosystem-blueprint-catalog)
 
-Inside or outside a box. Not a map, and the box does not cross 180 degrees.
+Inside or outside a box. Not a map, and the box does not cross 180 degrees. Coordinates are arguments. No claim transaction and no AtomicAssets owner list is read.
 
 The earlier README described a live product. This tree does not ship that.
 
